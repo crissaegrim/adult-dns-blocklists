@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-proton.me
-www.proton.me
-protonmail.com
-www.protonmail.com
+0.0.0.0 proton.me
+0.0.0.0 www.proton.me
+0.0.0.0 protonmail.com
+0.0.0.0 www.protonmail.com
