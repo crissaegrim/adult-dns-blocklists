@@ -120,3 +120,5 @@
 0.0.0.0 www.utopiaguide.pl
 0.0.0.0 www.wikisexguide.com
 0.0.0.0 www.xoxogirlsny.com
+0.0.0.0 risingsun8.com
+0.0.0.0 www.risingsun8.com
