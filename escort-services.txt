@@ -122,3 +122,7 @@
 0.0.0.0 www.xoxogirlsny.com
 0.0.0.0 risingsun8.com
 0.0.0.0 www.risingsun8.com
+0.0.0.0 www.nycsmilingeyes.com
+0.0.0.0 nycsmilingeyes.com
+0.0.0.0 misskyoto.com
+0.0.0.0 www.misskyoto.com
