@@ -126,3 +126,7 @@
 0.0.0.0 nycsmilingeyes.com
 0.0.0.0 misskyoto.com
 0.0.0.0 www.misskyoto.com
+0.0.0.0 poshkroom.com
+0.0.0.0 spicygirlsny.com
+0.0.0.0 10tenclub.com
+
